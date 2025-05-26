@@ -1,2 +1,2 @@
 # Data-Analysis
-This repository contains notebooks that i have used to learn data science. 
+This repository contains notebooks using python for data analysis
